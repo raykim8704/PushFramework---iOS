@@ -1,0 +1,6 @@
+framework module WaveFramework {
+  umbrella header "WaveFramework.h"
+
+  export *
+  module * { export * }
+}
